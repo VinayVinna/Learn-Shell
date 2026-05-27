@@ -2,4 +2,4 @@ ls -l
 
 pwd
 
-dnf list installed
+sudo dnf list installed
