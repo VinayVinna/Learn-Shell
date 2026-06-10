@@ -27,8 +27,8 @@ echo $a
 # 1. Environment variables
 # export var=data
 
-# on command line you run export data x1=100 before exceuting the script
-echo x1-$x1
+# on command line you run export data x1=100 before executing the script
+echo x1 - $x1
 
 # 2. LHS
 # x2=200 script
