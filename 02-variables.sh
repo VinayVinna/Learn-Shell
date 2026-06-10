@@ -10,3 +10,7 @@ a=10
 #syntax: $var
 
 echo $a
+
+#variables & functions naming
+#We can use characters A-Z, a-z
+#We can use numbers & underscore
