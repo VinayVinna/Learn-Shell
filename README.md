@@ -17,6 +17,14 @@ Reddirectors
 output can comprise both output & errors, if we want both to the same file then &> will be used.
 script - input from a file / output to a file
 
+### exit status
+
+exit status is a number which is returned by a acommand after execution
+it ranges from 0-255
+whereas 0 is successful
+whereas non 0 is partial success / partial failure / complete failure
+
+to access this value we use 'echo &?' after command execution
 we are going to learn bash shell scripting.
 
 following are the topics.
