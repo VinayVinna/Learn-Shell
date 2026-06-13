@@ -13,3 +13,5 @@ done
 for name in Orange Apple Banana; do
   echo fruit name - $name
 done
+
+## when we have something again and again to run we user  loops
